@@ -1,5 +1,7 @@
 # AI Medical Assistant 🩺🤖
 
+https://medicalgptanish.streamlit.app/
+
 A Retrieval-Augmented Generation (RAG)-based AI medical assistant that allows users to upload medical PDFs and ask context-aware questions using Large Language Models, semantic search, and vector databases.
 
 Built using FastAPI, Streamlit, LangChain, Pinecone, and Groq LLaMA3-70B.
